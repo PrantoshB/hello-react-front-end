@@ -57,6 +57,9 @@ In order to run this project you need:
 - Install Node
 - Install create-react-app
 
+### Back-End
+
+Here is the [Back-End](https://github.com/PrantoshB/hello-rails-back-end) of the app.
 
 ### Setup
 
